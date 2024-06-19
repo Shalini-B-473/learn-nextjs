@@ -3,40 +3,34 @@
     "92955d720de42c6d00c88f034b481a7cfb35a139": {
       "workers": {
         "app/dashboard/invoices/create/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/dashboard/invoices/create/page": "rsc",
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+        "app/dashboard/invoices/page": "rsc"
       }
     },
     "a773f808a3a98b9b07dc355079f88ef517066730": {
       "workers": {
         "app/dashboard/invoices/create/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/dashboard/invoices/create/page": "rsc",
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+        "app/dashboard/invoices/page": "rsc"
       }
     },
     "f173aea86114fb2fa87b6ecfc7d36cd1c296fdae": {
       "workers": {
         "app/dashboard/invoices/create/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-rc.0_@babel+core@7.24.6_react-dom@19.0.0-rc-6230622a1a-20240610_react@19.0.0-rc-6_eyrfp2s3kjd2bv6egpagcezi64/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cshalini.b%5C%5CDesktop%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/dashboard/invoices/create/page": "rsc",
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+        "app/dashboard/invoices/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "PFSJ1Lb4G+Dey99JNLwEBElkjlKGNyiy9BIH0EejDfw="
+  "encryptionKey": "iFwCVsMAv290QWd6wICk+/SFKkWCajS0qqBQnBH9pSE="
 }
