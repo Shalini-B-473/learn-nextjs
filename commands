@@ -1,0 +1,3 @@
+pnpm seed -  to seed data 
+pnpm run dev - to run 
+pnpm lint - Linting Plugin (Comes with NextJS)
