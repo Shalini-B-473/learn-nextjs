@@ -39,10 +39,10 @@ importers:
         specifier: 8.4.31
         version: 8.4.31
       react:
-        specifier: 19.0.0-rc-6230622a1a-20240610
+        specifier: ^19.0.0-beta-26f2496093-20240514
         version: 19.0.0-rc-6230622a1a-20240610
       react-dom:
-        specifier: 19.0.0-rc-6230622a1a-20240610
+        specifier: ^19.0.0-beta-26f2496093-20240514
         version: 19.0.0-rc-6230622a1a-20240610(react@19.0.0-rc-6230622a1a-20240610)
       tailwindcss:
         specifier: 3.3.3
