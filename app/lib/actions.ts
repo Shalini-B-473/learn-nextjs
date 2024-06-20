@@ -7,11 +7,10 @@ import { signIn } from '@/auth';
 import { AuthError } from 'next-auth';
 
 export async function authenticate(
-  prevState: string | undefined,
-  formData : FormData,
+  email: string, password: string
 ){
   try{
-    await signIn('credentials', formData)
+    await signIn('credentials', {email, password})
   }
   catch(error){
     if(error instanceof AuthError){
@@ -115,7 +114,7 @@ export async function updateInvoice(id:string, prevState: State, formData: FormD
 }
 
 export async function deleteInvoice(id: string){
-  throw new Error ('Failed to Delete Invoice') //comment it out
+  // throw new Error ('Failed to Delete Invoice') //comment it out
   try{
   await sql`
     DELETE FROM invoices WHERE id=${id}
